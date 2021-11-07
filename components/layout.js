@@ -1,6 +1,8 @@
 import Head from "next/head"
 import Image from "next/image"
+// @ts-ignore
 import styles from "./layout.module.css"
+// @ts-ignore
 import utilStyles from "../styles/utils.module.css"
 import Link from "next/link"
 
