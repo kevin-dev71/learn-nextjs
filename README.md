@@ -9,3 +9,4 @@ This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 - Server Side Rendering.
 - Client Side Rendering.
 - Dynamic routes using getStaticPaths.
+- API routes, understanding node in nextjs 
